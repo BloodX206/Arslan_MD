@@ -1,12 +1,12 @@
 {
-  "name": "Arslan_MD",
+  "name": "SPIDERMAN",
   "version": "4.5.0",
-  "description": "A WhatsApp Bot Created By ArslanMD Official",
+  "description": "A WhatsApp Bot Created By SPIDERMAN",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name Arslan_MD",
-    "stop": "pm2 stop Arslan_MD",
-    "restart": "pm2 restart Arslan_MD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name SPIDERMAN",
+    "stop": "pm2 stop SPIDERMAN",
+    "restart": "pm2 restart SPIDERMAN"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:baileys-pro@latest",
