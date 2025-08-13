@@ -1,8 +1,8 @@
 {
-  "name": "Arslan_MD",
-  "description": "Javascript WhatsApp bot made by ArslanMD Official",
+  "name": "spiderman",
+  "description": "Javascript WhatsApp bot made by spiderman",
   "logo": "https://files.catbox.moe/yj7zp0.png",
-  "keywords": ["Arslan_MD"],
+  "keywords": ["spiderman"],
   "success_url": "/",
 
     "stack": "container",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "Arslan_MD"
+      "value": "spiderman"
     }, 
       
     "PREFIX": {
@@ -84,27 +84,27 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY Arslan_MD 🇵🇰*"
+      "value": "*SEEN YOUR STATUS BY SpiDeRMAn 🕷️*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "ArslanMD Official"
+      "value": "SpiDerman"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923237045919"
+      "value": "923073660479"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "Arslan_MD"
+      "value": "SpiDeRmAn"
 
       }, 
 
@@ -143,7 +143,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 Arslan_MD*"
+      "value": "*©𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 SpiDeRmAn*"
     },
 
       "DELETE_LINKS": {
