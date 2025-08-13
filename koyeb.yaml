@@ -1,6 +1,6 @@
-name: Arslan_MD
+name: SPIDERMAN
 services:
-  - name: arslan_md-service
+  - name: spiderman-service
     type: web
     ports:
       - 5000
